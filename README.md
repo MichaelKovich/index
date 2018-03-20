@@ -20,6 +20,8 @@ Projects completed during my time at DevMountain.
 
 [React 5 - Afternoon](https://github.com/MichaelKovich/react-5-afternoon)
 
+[React 5 - Mini (Animations)](https://github.com/MichaelKovich/react-animations-mini)
+
 [React 5 - Mini](https://github.com/MichaelKovich/react-5-mini)
 
 [React 4 - Afternoon](https://github.com/MichaelKovich/react-4-afternoon)
@@ -113,6 +115,8 @@ Assessments completed prior to attending DevMountain.
 Useful resources and interesting repositories.
 
 [SASS Demo](https://github.com/MichaelKovich/sass-demo)
+
+[React Motion Demos](https://github.com/MichaelKovich/react-motion)
 
 [postCSS](https://github.com/MichaelKovich/postcss-cssnext)
 
