@@ -12,6 +12,8 @@ Projects completed during my time at DevMountain.
 ## DevMountain Classwork
 ### Simulations
 
+[Simulation III](https://github.com/MichaelKovich/simulation-3)
+
 [Simulation II](https://github.com/MichaelKovich/simulation-2)
 
 [Simulation I](https://github.com/MichaelKovich/simulation-1)
@@ -55,6 +57,10 @@ Projects completed during my time at DevMountain.
 [SQL I - Mini](https://github.com/MichaelKovich/sql-1-mini)
 
 ### Node
+
+[Node Auth - Afternoon](https://github.com/MichaelKovich/node-auth-afternoon)
+
+[Node Auth - Mini](https://github.com/MichaelKovich/node-auth-mini)
 
 [Node III - Afternoon](https://github.com/MichaelKovich/node-3-afternoon)
 
@@ -115,6 +121,8 @@ Assessments completed prior to attending DevMountain.
 Useful resources and interesting repositories.
 
 [deeplearnjs](https://github.com/MichaelKovich/deeplearnjs)
+
+[Full-Stack Auth Example](https://github.com/MichaelKovich/full-stack-auth-example)
 
 [SASS Demo](https://github.com/MichaelKovich/sass-demo)
 
