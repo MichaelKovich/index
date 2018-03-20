@@ -114,6 +114,8 @@ Assessments completed prior to attending DevMountain.
 # Resources
 Useful resources and interesting repositories.
 
+[deeplearnjs](https://github.com/MichaelKovich/deeplearnjs)
+
 [SASS Demo](https://github.com/MichaelKovich/sass-demo)
 
 [React Motion Demos](https://github.com/MichaelKovich/react-motion)
