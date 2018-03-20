@@ -68,9 +68,13 @@ Projects completed during my time at DevMountain.
 
 [Node I - Mini](https://github.com/MichaelKovich/node-1-mini)
 
+[Node In-Class Demo](https://github.com/MichaelKovich/project-in-class-1)
+
 ### JavaScript
 
 [JavaScript V - Lodash](https://github.com/MichaelKovich/javascript-5-lodash)
+
+[JavaScript V - Debugging](https://github.com/MichaelKovich/debugging-afternoon)
 
 [JavaScript V - Mini](https://github.com/MichaelKovich/javascript5-mini)
 
@@ -88,6 +92,8 @@ Projects completed during my time at DevMountain.
 
 ### CSS / HTML
 
+[Media Queries - Afternoon](https://github.com/MichaelKovich/media-queries-afternoon)
+
 [CSS Layout Clone](https://github.com/MichaelKovich/css-layout-clone)
 
 [HTML Layout 2](https://github.com/MichaelKovich/html-layouts-2)
@@ -98,14 +104,23 @@ Projects completed during my time at DevMountain.
 
 [Practice Problems](https://github.com/MichaelKovich/HTML-CSS-Practice-Problems)
 
+# Basecamp Assessments
+Assessments completed prior to attending DevMountain.
+
+[Basecamp Assessment I](https://github.com/MichaelKovich/basecamp-assessment-i)
+
 # Resources
 Useful resources and interesting repositories.
+
+[SASS Demo](https://github.com/MichaelKovich/sass-demo)
 
 [postCSS](https://github.com/MichaelKovich/postcss-cssnext)
 
 [DevMountain Rubrics](https://github.com/MichaelKovich/rubrics)
 
 [Awesome Functional Programming](https://github.com/MichaelKovich/awesome-fp-js)
+
+[Awesome Testing Resources](https://github.com/MichaelKovich/awesome-testing)
 
 [Steven's Directory of Resources](https://github.com/MichaelKovich/resources)
 
@@ -114,3 +129,17 @@ Useful resources and interesting repositories.
 [How to Contribute to Open Source](https://github.com/MichaelKovich/how-to-contribute-to-open-source)
 
 [Front-End Handbook 2017](https://github.com/MichaelKovich/front-end-handbook-2017)
+
+[Node/Express Example](https://github.com/MichaelKovich/dm-node-express-example)
+
+[Sample NoDB Project](https://github.com/MichaelKovich/sample_nodb)
+
+[JavaScript Koans](https://github.com/MichaelKovich/ssp15-javascript-koans)
+
+[JavaScript Testbuilder](https://github.com/MichaelKovich/ssp15-testbuilder)
+
+[JavaScript Recursion](https://github.com/MichaelKovich/ssp15-recursion)
+
+[JavaScript Underbar](https://github.com/MichaelKovich/ssp15-underbar)
+
+[JavaScript Twittler](https://github.com/MichaelKovich/ssp15-twittler)
