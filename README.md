@@ -2,6 +2,8 @@
 An index of all of my repositories.
 
 # Personal Projects
+[Electronic Medical Record Management Application](https://github.com/MichaelKovich/kovy-emr)
+
 [URL Shortener](https://github.com/MichaelKovich/url-shortener)
 
 [NoDB Project - Steam Newsfeed Generator](https://github.com/MichaelKovich/steam-newsfeed)
