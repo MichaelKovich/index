@@ -2,7 +2,7 @@
 An index of all of my repositories.
 
 # Personal Projects
-[Electronic Medical Record Management Application](https://github.com/MichaelKovich/kovy-emr)
+[Electronic Medical Record Management Application](https://github.com/MichaelKovich/kovy-emr) (Awarded Best Overall Project)
 
 [URL Shortener](https://github.com/MichaelKovich/url-shortener)
 
