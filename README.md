@@ -9,6 +9,10 @@ An index of all of my repositories.
 [NoDB Project - Steam Newsfeed Generator](https://github.com/MichaelKovich/steam-newsfeed)
 
 ## DevMountain Classwork
+### Webpack Configuration
+
+[Webpack Sandbox](https://github.com/MichaelKovich/webpack-sandbox)
+
 ### Vue
 
 [Vue Afternoon](https://github.com/MichaelKovich/vue-afternoon)
