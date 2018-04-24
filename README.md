@@ -23,6 +23,10 @@ An index of all of my repositories.
 
 [p5 Sandbox](https://github.com/MichaelKovich/p5-sandbox)
 
+### Algorithms and Data Structures
+
+[Linked Lists](https://github.com/MichaelKovich/linked-lists)
+
 ### React
 
 [React 5 - Afternoon](https://github.com/MichaelKovich/react-5-afternoon)
