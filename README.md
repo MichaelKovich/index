@@ -27,6 +27,8 @@ An index of all of my repositories.
 
 [Linked Lists](https://github.com/MichaelKovich/linked-lists)
 
+[Binary Search Trees](https://github.com/MichaelKovich/binary-search-trees)
+
 ### React
 
 [React 5 - Afternoon](https://github.com/MichaelKovich/react-5-afternoon)
