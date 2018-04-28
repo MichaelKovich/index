@@ -1,14 +1,14 @@
-# index
-An index of all of my repositories.
+# Michael Kovich | Index
+Full-Stack JavaScript Developer (Currently Seeking Opportunities)
 
 # Personal Projects
-[Electronic Medical Record Management Application](https://github.com/MichaelKovich/kovy-emr) (Awarded Best Overall Project)
+[Electronic Medical Record Management Application](https://github.com/MichaelKovich/kovy-emr): [Awarded Best Overall Project] An application where patients and providers can manage health information, send and receive messages, pay medical bills, view genomics reports via the 23andMe API, create blog content, and /much/ more. Full details available in the README.
 
-[Anonymous, Real-Time WebSockets Application for Student Questions (WIP)](https://github.com/MichaelKovich/anon-qq)
+[Anonymous, Real-Time WebSockets Application for Student Questions](https://github.com/MichaelKovich/anon-qq): For this project, a classmate and I challenged ourselves to learn a new technology and implement it in a practical way within roughly ten working hours. Understanding that students sometimes feel hesitant to raise questions in front of their peers, Anon-QQ was developed. Within the application, students are free to submit questions with anonymity amongst peers, though instructors can see their names to track engagement. Instructors are able to create unique, isolated rooms for their particular classes.
+
+[NoDB Project - Steam Newsfeed Generator](https://github.com/MichaelKovich/steam-newsfeed): An application where users can enter their Steam ID, access their recently played games, track a particular game, and view its news and achievement statistics.
 
 [URL Shortener](https://github.com/MichaelKovich/url-shortener)
-
-[NoDB Project - Steam Newsfeed Generator](https://github.com/MichaelKovich/steam-newsfeed)
 
 ## DevMountain Classwork
 ### New Technology Sandboxes
