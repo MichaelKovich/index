@@ -1,4 +1,4 @@
-# Michael Kovich | Index
+# Michael Kovich
 Full-Stack JavaScript Developer (Currently Seeking Opportunities)
 
 # Personal Projects
