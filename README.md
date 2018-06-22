@@ -1,5 +1,5 @@
 # Michael Kovich
-Full-Stack JavaScript Developer (Currently Seeking Opportunities)
+Software Engineer | Biomeme, Inc.
 
 # Personal Projects
 [Electronic Medical Record Management Application](https://github.com/MichaelKovich/kovy-emr): [Awarded Best Overall Project] An application where patients and providers can manage health information, send and receive messages, pay medical bills, view genomics reports via the 23andMe API, create blog content, and /much/ more. Full details available in the README.
