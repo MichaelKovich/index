@@ -12,6 +12,17 @@ Software Engineer | Biomeme, Inc.
 
 [URL Shortener](https://github.com/MichaelKovich/url-shortener)
 
+# Notebooks [Private]
+[Functional Programming](https://github.com/MichaelKovich/Functional-Programming-Notes)
+
+[Blockchain Technology](https://github.com/MichaelKovich/Blockchain-Notes)
+
+[Redux and Redux Saga](https://github.com/MichaelKovich/Redux-Saga-Notes)
+
+[JavaScript](https://github.com/MichaelKovich/JavaScript-Notes)
+
+[React](https://github.com/MichaelKovich/React-Notes)
+
 ## DevMountain Classwork
 ### New Technology Sandboxes
 
