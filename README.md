@@ -21,7 +21,11 @@ Software Engineer | Biomeme, Inc.
 
 [JavaScript](https://github.com/MichaelKovich/JavaScript-Notes)
 
+[Electron](https://github.com/MichaelKovich/Electron-Notes)
+
 [React](https://github.com/MichaelKovich/React-Notes)
+
+[d3](https://github.com/MichaelKovich/d3-Notes)
 
 ## DevMountain Classwork
 ### New Technology Sandboxes
