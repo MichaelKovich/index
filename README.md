@@ -13,6 +13,8 @@ Software Engineer | Biomeme, Inc.
 [URL Shortener](https://github.com/MichaelKovich/url-shortener)
 
 # Notebooks [Private]
+[AWS Cloud Practitioner Certification](https://github.com/MichaelKovich/AWS-Cloud-Practitioner-Notes)
+
 [Functional Programming](https://github.com/MichaelKovich/Functional-Programming-Notes)
 
 [Blockchain Technology](https://github.com/MichaelKovich/Blockchain-Notes)
