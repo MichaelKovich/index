@@ -27,6 +27,8 @@ Software Engineer | Biomeme, Inc.
 
 [React](https://github.com/MichaelKovich/React-Notes)
 
+[SQL](https://github.com/MichaelKovich/SQL-Notes/)
+
 [d3](https://github.com/MichaelKovich/d3-Notes)
 
 ## DevMountain Classwork
