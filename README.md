@@ -31,6 +31,8 @@ Software Engineer | Biomeme, Inc.
 
 [d3](https://github.com/MichaelKovich/d3-Notes)
 
+[C](https://github.com/MichaelKovich/c-notes)
+
 ## DevMountain Classwork
 ### New Technology Sandboxes
 
