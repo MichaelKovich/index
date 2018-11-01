@@ -20,11 +20,11 @@ Feel free to take a look at my portfolio to learn more about the freelance proje
 
 [AWS Cloud Practitioner Certification](https://github.com/MichaelKovich/AWS-Cloud-Practitioner-Notes)
 
+[Redux, Redux Saga, and Reselect](https://github.com/MichaelKovich/Redux-Saga-Notes)
+
 [Functional Programming](https://github.com/MichaelKovich/Functional-Programming-Notes)
 
 [Blockchain Technology](https://github.com/MichaelKovich/Blockchain-Notes)
-
-[Redux and Redux Saga](https://github.com/MichaelKovich/Redux-Saga-Notes)
 
 [JavaScript](https://github.com/MichaelKovich/JavaScript-Notes)
 
