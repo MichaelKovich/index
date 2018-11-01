@@ -1,5 +1,5 @@
 # Michael Kovich
-**Current Role:** Software Engineer | Biomeme, Inc. [BitBucket](https://bit.ly/2JFtjCM)
+**Current Role:** Software Engineer | Biomeme, Inc. ([BitBucket](https://bit.ly/2JFtjCM))
 
 # Freelance Projects
 Feel free to take a look at my portfolio to learn more about the freelance projects I've done.
