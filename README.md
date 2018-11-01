@@ -25,6 +25,8 @@ Software Engineer | Biomeme, Inc.
 
 [Electron](https://github.com/MichaelKovich/Electron-Notes)
 
+[Testing](https://github.com/MichaelKovich/testing-notes)
+
 [React](https://github.com/MichaelKovich/React-Notes)
 
 [SQL](https://github.com/MichaelKovich/SQL-Notes/)
