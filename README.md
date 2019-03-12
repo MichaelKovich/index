@@ -5,9 +5,13 @@
 Feel free to take a look at my portfolio to learn more about the freelance projects I've done.
 
 # Personal Projects
-[Electronic Medical Record Management Application](https://github.com/MichaelKovich/kovy-emr): [Awarded Best Overall Project] An application where patients and providers can manage health information, send and receive messages, pay medical bills, view genomics reports via the 23andMe API, create blog content, and /much/ more. Full details available in the README.
+Recent Mini-Projects: [Ambient Temperature and Humidity Sensor and Data Logger](https://github.com/MichaelKovich/climate-sensor), [Interactive Discord Bot](https://github.com/MichaelKovich/scyther), [Redis Cache](https://github.com/MichaelKovich/redis-cache), [Async Microservice with RabbitMQ](https://github.com/MichaelKovich/rabbitmq-async-microservices), [Web Scraper](https://github.com/MichaelKovich/scraper-utility), [Handwritten Digit Recognizer (Neural Net)](https://github.com/MichaelKovich/neural-net-handwriting)
+
+[TitanEHR](https://github.com/MichaelKovich/titan-ehr): (EARLY Stage WIP) Electronic Health Record Application
 
 [MEBU Property Management Application](https://github.com/MEBUPropertyManagement/mebu): MEBU is a full-stack application that allows property owners to manage their real estate, units, residents, and finances, and where tenants are able to handle maintenance requests and pay their rent.
+
+[Electronic Medical Record Management Application](https://github.com/MichaelKovich/kovy-emr): [Awarded Best Overall Project] An application where patients and providers can manage health information, send and receive messages, pay medical bills, view genomics reports via the 23andMe API, create blog content, and /much/ more. Full details available in the README.
 
 [Anonymous, Real-Time WebSockets Application for Student Questions](https://github.com/MichaelKovich/anon-qq): For this project, a classmate and I challenged ourselves to learn a new technology and implement it in a practical way within roughly ten working hours. Understanding that students sometimes feel hesitant to raise questions in front of their peers, Anon-QQ was developed. Within the application, students are free to submit questions with anonymity amongst peers, though instructors can see their names to track engagement. Instructors are able to create unique, isolated rooms for their particular classes.
 
