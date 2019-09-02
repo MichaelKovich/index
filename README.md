@@ -44,4 +44,6 @@ Recent Mini-Projects: [Ambient Temperature and Humidity Sensor and Data Logger](
 
 [d3](https://github.com/MichaelKovich/d3-Notes)
 
+[C#](https://github.com/MichaelKovich/c-sharp-notes)
+
 [C](https://github.com/MichaelKovich/c-notes)
