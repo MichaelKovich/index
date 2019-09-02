@@ -36,6 +36,8 @@ Recent Mini-Projects: [Ambient Temperature and Humidity Sensor and Data Logger](
 
 [Testing](https://github.com/MichaelKovich/testing-notes)
 
+[Scrum](https://github.com/MichaelKovich/scrum-notes)
+
 [React](https://github.com/MichaelKovich/React-Notes)
 
 [SQL](https://github.com/MichaelKovich/SQL-Notes/)
