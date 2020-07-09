@@ -22,6 +22,8 @@ Recent Mini-Projects: [Ambient Temperature and Humidity Sensor and Data Logger](
 # Notebooks [Private]
 (This is not a comprehensive list... I'm still bringing other notebooks over to GitHub.)
 
+[Machine Learning with Microsoft Azure](https://github.com/MichaelKovich/machine-learning-microsoft-azure)
+
 [AWS Cloud Practitioner Certification](https://github.com/MichaelKovich/AWS-Cloud-Practitioner-Notes)
 
 [Redux, Redux Saga, and Reselect](https://github.com/MichaelKovich/Redux-Saga-Notes)
