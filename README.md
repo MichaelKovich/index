@@ -1,10 +1,8 @@
 # Michael Kovich
-**Current Role:** Software Engineering Manager | Biomeme, Inc.
+**Current Role:** Software Engineering Manager at [Biomeme, Inc.](https://biomeme.com/) (I'm hiring!)
 
 # Personal Projects
-Most of my free time programming is done for my specialty coffee roasting company, [Mauch Chunk Coffee Company](https://mauchchunkcoffee.com/), where I'm working on everything from 
-
-When I 
+These days, much of the programming that I do in my free time is for my specialty coffee roasting company, [Mauch Chunk Coffee Company](https://mauchchunkcoffee.com/). Over the years, I have engineered countless software solutions across virtually every aspect of the business (with a heavy focus on automation).
 
 Some Fun Mini-Projects: [Ambient Temperature and Humidity Sensor and Data Logger](https://github.com/MichaelKovich/climate-sensor), [Interactive Discord Bot - Used in my stock trading Discord server](https://github.com/MichaelKovich/scyther), [Redis Cache](https://github.com/MichaelKovich/redis-cache), [Async Microservice with RabbitMQ](https://github.com/MichaelKovich/rabbitmq-async-microservices), [Wholesale Intelligence Web Scraper](https://github.com/MichaelKovich/scraper-utility), [Handwritten Digit Recognizer (Neural Net)](https://github.com/MichaelKovich/neural-net-handwriting), [Instagram Business Page Content Queuing Automation Utility](https://github.com/MichaelKovich/instagram-automation)
 
