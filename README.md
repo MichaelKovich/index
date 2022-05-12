@@ -1,11 +1,14 @@
 # Michael Kovich
-**Current Role:** Software Engineer | Biomeme, Inc. ([BitBucket](https://bit.ly/2JFtjCM))
-
-# Freelance Projects
-Feel free to take a look at my portfolio to learn more about the freelance projects I've done.
+**Current Role:** Software Engineering Manager | Biomeme, Inc.
 
 # Personal Projects
-Recent Mini-Projects: [Ambient Temperature and Humidity Sensor and Data Logger](https://github.com/MichaelKovich/climate-sensor), [Interactive Discord Bot](https://github.com/MichaelKovich/scyther), [Redis Cache](https://github.com/MichaelKovich/redis-cache), [Async Microservice with RabbitMQ](https://github.com/MichaelKovich/rabbitmq-async-microservices), [Web Scraper](https://github.com/MichaelKovich/scraper-utility), [Handwritten Digit Recognizer (Neural Net)](https://github.com/MichaelKovich/neural-net-handwriting), [Instagram Business Page Content Queuing Automation Utility](https://github.com/MichaelKovich/instagram-automation)
+Most of my free time programming is done for my specialty coffee roasting company, [Mauch Chunk Coffee Company](https://mauchchunkcoffee.com/), where I'm working on everything from 
+
+When I 
+
+Some Fun Mini-Projects: [Ambient Temperature and Humidity Sensor and Data Logger](https://github.com/MichaelKovich/climate-sensor), [Interactive Discord Bot - Used in my stock trading Discord server](https://github.com/MichaelKovich/scyther), [Redis Cache](https://github.com/MichaelKovich/redis-cache), [Async Microservice with RabbitMQ](https://github.com/MichaelKovich/rabbitmq-async-microservices), [Wholesale Intelligence Web Scraper](https://github.com/MichaelKovich/scraper-utility), [Handwritten Digit Recognizer (Neural Net)](https://github.com/MichaelKovich/neural-net-handwriting), [Instagram Business Page Content Queuing Automation Utility](https://github.com/MichaelKovich/instagram-automation)
+
+# Early Programming Work
 
 [TitanEHR](https://github.com/MichaelKovich/titan-ehr-js): (EARLY Stage WIP) Electronic Health Record Application
 
