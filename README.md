@@ -6,7 +6,7 @@ These days, much of the programming that I do in my free time is for my specialt
 
 Some Fun Mini-Projects: [Ambient Temperature and Humidity Sensor and Data Logger](https://github.com/MichaelKovich/climate-sensor), [Interactive Discord Bot - Used in my stock trading Discord server](https://github.com/MichaelKovich/scyther), [Redis Cache](https://github.com/MichaelKovich/redis-cache), [Async Microservice with RabbitMQ](https://github.com/MichaelKovich/rabbitmq-async-microservices), [Wholesale Intelligence Web Scraper](https://github.com/MichaelKovich/scraper-utility), [Handwritten Digit Recognizer (Neural Net)](https://github.com/MichaelKovich/neural-net-handwriting), [Instagram Business Page Content Queuing Automation Utility](https://github.com/MichaelKovich/instagram-automation)
 
-# Early Programming Work
+# VERY Early Programming Work
 
 [TitanEHR](https://github.com/MichaelKovich/titan-ehr-js): (EARLY Stage WIP) Electronic Health Record Application
 
